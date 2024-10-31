@@ -1,0 +1,10 @@
+{
+    "syntax_colors": {
+        "keyword": "orange",
+        "string": "green",
+        "comment": "gray",
+        "number": "blue",
+        "boolean": "#00008b",
+        "function": "blue"
+    }
+}
